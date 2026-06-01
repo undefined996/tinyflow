@@ -44,7 +44,7 @@
         .none-params {
             font-size: 12px;
             background: var(--tf-secondary);
-            height: 40px;
+            height: 20px;
             display: flex;
             justify-content: center;
             align-items: center;
